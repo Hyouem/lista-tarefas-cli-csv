@@ -113,3 +113,10 @@ mvn clean verify
 ```
 
 Os testes abrangem dominio, servico, persistencia e CLI.
+
+## Demonstracao
+
+A imagem abaixo apresenta uma execucao validada da aplicacao,
+com criacao, conclusao e listagem de tarefas, alem da persistencia CSV.
+
+![Demonstracao da Lista de Tarefas CLI](docs/images/funcionamento.png)
